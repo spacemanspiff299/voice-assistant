@@ -1,0 +1,5 @@
+faster-whisper>=0.10.0
+speechrecognition
+numpy
+scikit-learn
+# For webbrowser and os, no install needed (standard library)
